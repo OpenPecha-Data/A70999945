@@ -1,0 +1,34 @@
+segment_sources:
+  PA5DA886D:
+    type: origin_type
+    relation: translation
+    language: en
+  P1D81C834:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9be07c0d5672402fbf09a51b88cdfabb:
+    PA5DA886D: c1b99144088446acafac476c57ec81ea
+    P1D81C834: c73f63cd396940ce81396673a62eb89e
+  79e44a97272c42aba00a424c65e521f9:
+    PA5DA886D: 3a01f2f662ce45f4baae9fd815fc4f90
+    P1D81C834: 73424f269bc74c82a9775df0f7c0c232
+  5964db6c2b634dd195e1ede6bb75d6bc:
+    PA5DA886D: a7fa185a27c2469eadfe656af7febe44
+    P1D81C834: 47c686e75e184d62a6e1a2797f4ac5e5
+  0820d59edae8481880afae7848561c64:
+    PA5DA886D: 9b238631846248f8923c2c5438cef4ea
+    P1D81C834: 375225c0544947269cfea122c5302029
+  992df44958314962aaea02fc8b286113:
+    PA5DA886D: 86c6689bf8464b7a99bdaaf6e092ecf0
+    P1D81C834: b8ec7fd129f84ae08f2e4bb989430659
+  d9aa1e54e7cc48d3a012f995f2574719:
+    PA5DA886D: 4250f011a90a4d3c960afe352cf195da
+    P1D81C834: fcea6bc7fbc141e7b2ee7d46e7f2d214
+  c1151b9402204d4ebb22d932b95c5aee:
+    PA5DA886D: af87f2fcd797463d83e3c6104e255444
+    P1D81C834: cb88a8337b78461cab76ee71a777eef6
+  59c2769c5e234218846afacd203f8b6b:
+    PA5DA886D: abf271e003fe40eb9e46ba6bf7bf1515
+    P1D81C834: 7f500db125854b71a0b5a8dbe92f64f0

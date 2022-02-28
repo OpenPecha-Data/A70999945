@@ -1,0 +1,19 @@
+segment_sources:
+  PA5DA886D:
+    type: origin_type
+    relation: translation
+    language: en
+  P1D81C834:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1ff29806ea09459bbea2e11e1f3a3575:
+    PA5DA886D: 4c0e49c5da744641be135fb913833d3b
+    P1D81C834: 7ac4a4158d904e6b82fd5bf59f244ef7
+  4002d04e8a784cca9ff920d774576ef3:
+    PA5DA886D: 839c1306ddff4843a6413da792d08736
+    P1D81C834: a1e9c5496e7f45b2ab6eb5ae5cf49aac
+  c2c3041ca3144de59733fff1ca35d0f0:
+    PA5DA886D: 69e7e21970dc479b896769ac37841a15
+    P1D81C834: c43e7477a55e4251b3187514d0c75f92
